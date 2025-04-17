@@ -1,11 +1,9 @@
 # NLP Assignment 5: Direct Preference Optimization (DPO)
 
-## Student Information
-- Name - Kaung Nyo Lwin
-- ID - st125066
+## Project Structure
 
 ```
-nlp_a5/
+A5/
 ├── app/                    # Chat application directory
 │   ├── main.py            # Dash-based chat interface
 │   └── requirements.txt   # Python dependencies for the app

@@ -6,7 +6,7 @@ This repository contains an NLP project that utilizes various libraries and fram
 
 ## Directory Structure
 ```
-nlp_a6/
+A6/
 ├── app/
 │    ├── main.py # Main application file to run the model    
 │    └── model.py # Implementation of the chatbot model 

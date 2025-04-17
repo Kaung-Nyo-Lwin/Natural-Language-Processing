@@ -1,17 +1,29 @@
-# nlp_a4
- AIT NLP Assignment 5
+# NLP Assignment 4: BERT from Scratch
 
-- [Student Information](#student-information)
-- [Installation and Setup](#installation-and-setup)
-- [Model evaluation](#model-evaluation)
-- [Model config](#model-config)
-- [Web](#web)
+## Project Structure
+
+- `app/`: Contains the web application code for visualization
+- `figures/`: Contains generated plots and visualizations
+- `st125066_a4.ipynb`: Main Jupyter notebook with implementation and experiments
+- `dash.Dockerfile`: Dockerfile for the visualization dashboard
+- `docker-compose.yaml`: Docker compose configuration for running the application
+
+## Installation and Setup
+    run "docker compose up"
+    Webapp at localhost:9999
+
+## Model evaluation
+| Model Type       | SNLI Accuracy |
+|------------------|---------------|
+| S-BERT(scratch)  |         35.090909 |
+
+## Model config
+    n_layers - 12    (number of Encoder of Encoder Layer)
+    n_heads  - 12    (number of heads in Multi-Head Attention)
+    d_model  - 768   (Embedding Size)
+    num_epoch - 2
 - [Discussion](#discussion)
 
-
-## Student Information
-Name - Kaung Nyo Lwin
-ID - st125066
 
 ## Installation and Setup
     run "docker compose up"

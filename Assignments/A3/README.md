@@ -1,6 +1,4 @@
-# nlp_a3
-
-## Machine Translation 
+# NLP Assignment 3: Machine Translation
 
 In this assignment, neural machine translation is applied in translating between Myanmar and English. Experiments with different types of attention mechanisms, including general attention, multiplicative attention, and additive attention are performed and evaluated for
 effectiveness in the translation process.

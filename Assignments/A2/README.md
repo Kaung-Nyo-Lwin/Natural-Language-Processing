@@ -1,4 +1,4 @@
-# nlp_a2
+# NLP Assignment 2: Language Models
 
 This repository is the fullfilment for the A2 assigment in the coruse of Natural Language Processing at AIT.
 
